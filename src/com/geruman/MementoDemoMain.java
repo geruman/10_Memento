@@ -1,4 +1,7 @@
-package com.geruman.memento;
+package com.geruman;
+
+import com.geruman.memento.BattleCareTaker;
+import com.geruman.memento.BattleOriginator;
 
 public class MementoDemoMain {
 
